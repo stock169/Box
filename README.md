@@ -12,5 +12,5 @@
         putDefault(HawkConfig.HOME_NUM, 2);       // History Number
         putDefault(HawkConfig.DOH_URL, 2);        // DNS
         putDefault(HawkConfig.SEARCH_VIEW, 2);    // Text or Picture
-
+ 
     }
